@@ -78,10 +78,8 @@ COPY index.html /var/www/html
 
 All sources are available on GitHub
 - Slides<br>
-  - `open http://codethebuild.github.io/slides/`
-  - `git clone https://github.com/codethebuild/slides.git`
-  - `docker run -d -p 80:80 npalm/codethebuild:nextbuild`
+  - `open https://npalm.github.io/ehv-meetup-slides-20160920/`
+  - `git clone https://github.com/npalm/ehv-meetup-slides-20160920.git`
+  - `docker run -d -p 80:80 npalm/ehv-meetup-slides:20160920`
 - CI / CD enviroment
-  - `git clone https://github.com/codethebuild/cicd.git`
-- Sample sources Java Spring Boot service
-  - `git clone https://github.com/codethebuild/service.git`
+  - `git clone https://github.com/npalm/ehv-meetup-env-20160920.git`
