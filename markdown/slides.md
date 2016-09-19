@@ -61,7 +61,7 @@ COPY index.html /var/www/html
 
 !SUB
 ## Real world example - demo
-
+![demo2](images/demo2.jpg)
 
 !SLIDE
 ## More real world
