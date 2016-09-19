@@ -48,11 +48,15 @@ COPY index.html /var/www/html
 
 !SLIDE
 ## Real world example
+![demo2](images/example.png)
+
+!SUB
+## Real world example - pipeline
 ![demo2](images/pipeline.png)
 
 
 !SUB
-## Real world example - enviroment
+## Real world example - environment
 ![demo2](images/ci-container.png)
 
 !SUB
