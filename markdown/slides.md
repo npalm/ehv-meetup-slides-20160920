@@ -1,10 +1,10 @@
 ![todo](images/todo.png)
+
 - Introduction to GitLabCI
 - Simple example
 - Real world example
 
 !SUB
-## Docker
 Docker containers wrap up a piece of software in a complete filesystem that contains everything it needs to run: code, runtime, system tools, system libraries - anything you can install on a server. This guarantees that it will always run the same, regardless of the environment it is running in.
 ![docker](images/docker-logo.png)
 
@@ -27,11 +27,10 @@ COPY index.html /var/www/html
 
 
 !SUB
-## GitLab
+![gitlab](images/gitlab-logo.png)
 - Projects, issues, review, merge on successful build
-- Wiki, CI, Docker Registry, GitLab Pages,
+- Wiki, CI, Docker Registry andGitLab Pages
 - In the cloud, on premise community annd enterprise edition
-
 
 
 !SUB
