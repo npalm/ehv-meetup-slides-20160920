@@ -74,12 +74,11 @@ COPY index.html /var/www/html
 
 
 !SLIDE
-# Thanks
+![thanks](images/tux.png)
 
 All sources are available on GitHub
 - Slides<br>
   - `open https://npalm.github.io/ehv-meetup-slides-20160920/`
-  - `git clone https://github.com/npalm/ehv-meetup-slides-20160920.git`
   - `docker run -d -p 80:80 npalm/ehv-meetup-slides:20160920`
-- CI / CD enviroment
-  - `git clone https://github.com/npalm/ehv-meetup-env-20160920.git`
+- All sources (see submodules)
+  - `https://github.com/npalm/ehv-meetup-20160920`
