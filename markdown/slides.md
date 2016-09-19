@@ -61,8 +61,6 @@ COPY index.html /var/www/html
 
 !SUB
 ## Real world example - demo
-![demo2](images/ci-container.png)
-
 
 
 !SLIDE
