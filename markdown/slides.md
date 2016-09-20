@@ -40,8 +40,8 @@ COPY index.html /var/www/html
 !SUB
 ![gitlab](images/gitlab-logo.png)
 - Projects, issues, review, merge on successful build
-- Wiki, CI, Docker Registry andGitLab Pages
-- In the cloud, on premise community annd enterprise edition
+- Wiki, CI, Docker Registry and GitLab Pages
+- In the cloud, on premise community and enterprise edition
 
 
 !SUB
