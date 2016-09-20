@@ -1,3 +1,6 @@
+![me](images/disk.jpg)
+
+!SLIDE
 # Init
 ```
 if (docker is unknown) -> doIntro("docker", RAPID);
